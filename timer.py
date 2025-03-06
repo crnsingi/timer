@@ -10,3 +10,4 @@ def countdown(t):
         
 t = input("Enter time in seconds for countdown ")
 countdown(int(t))
+print("GET DOWN!!")
