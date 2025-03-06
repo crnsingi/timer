@@ -9,3 +9,4 @@ def countdown(t):
         t-= 1
         
 t = input("Enter time in seconds for countdown ")
+countdown(int(t))
